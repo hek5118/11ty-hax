@@ -2,56 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <pre><code>&lt;url&gt;
   &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/about/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-02-27T21:08:42+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/blogpost1/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-27T21:08:42+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/contact/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/examples/Community/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/examples/HAXTeam/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/examples/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/install/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/roadmap/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;https://abbeylyle4.github.io/11ty-hax/content/why/&lt;/loc&gt;
-  &lt;lastmod&gt;2022-02-24T17:38:26+00:00&lt;/lastmod&gt;
+  &lt;lastmod&gt;2022-02-27T21:08:42+00:00&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
